@@ -75,7 +75,7 @@ Connect a host (desktop/laptop) to the AP through an Ethernet port. Connect a cl
 
 If you find this work and/or dataset useful in your research, please cite:
 
-```
+```bibtex
 @inproceedings {liu2023exploiting,
 author = {Zikun Liu and Changming Xu and Emerson Sie and Gagandeep Singh and Deepak Vasisht},
 title = {Exploring Practical Vulnerabilities of Machine Learning-based Wireless Systems},
