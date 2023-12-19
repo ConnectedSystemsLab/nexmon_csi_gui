@@ -10,7 +10,7 @@ This repo contains the data collection tool used in the following paper: <br/>
 
 This repo contains an convenient Python utility for decoding and displaying CSI from a Nexmon device (e.g. ASUS RT-AC86U) in real time (up to ~100 Hz on a typical desktop CPU). It is ideal for real time applications such as on-the-fly debugging, gesture sensing, etc.
 
-https://user-images.githubusercontent.com/14133352/214341753-4fc49b61-f244-4158-abc5-3d0a84440746.mp4
+https://github.com/ConnectedSystemsLab/nexmon_csi_gui/assets/14133352/cd7fd630-2d26-43c5-a940-2369cedbb9a2
 
 ### Features
 
